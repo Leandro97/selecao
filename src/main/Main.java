@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Main {	
 	public static void main(String[] args) throws IOException {
-		String fileName = "proposals3";
+		String fileName = "proposals";
 		Solver solver = new Solver(fileName);
 
 		for(int i = 0; i < solver.getTracks(); i++) {

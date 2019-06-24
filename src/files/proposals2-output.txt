@@ -1,0 +1,38 @@
+TRACK A
+09:00 Palestra C lightning
+09:05 Palestra E 21min
+09:26 Palestra F lightning
+09:31 Palestra l 30min
+10:01 Palestra M lightning
+10:06 Palestra N 15min
+10:21 Palestra O 30min
+10:51 Palestra Q 10min
+11:01 Palestra T 17min
+11:18 Palestra X 30min
+11:48 Palestra Z lightning 
+12:00 Almoço
+13:00 Palestra J 45min
+13:45 Palestra S 45min
+14:30 Palestra U 38min
+15:08 Palestra W 45min
+15:53 Palestra Y 60min
+17:00 Evento de Networking
+
+TRACK B
+09:00 Palestra A 25min
+09:25 Palestra H 45min
+10:10 Palestra I 45min
+10:55 Palestra V 60min
+12:00 Almoço
+13:00 Palestra D 60min
+14:00 Palestra G 60min
+15:00 Palestra P 60min
+16:00 Palestra R 60min
+17:00 Evento de Networking
+
+TRACK C
+09:00 Palestra B 47min
+09:47 Palestra K 90min
+12:00 Almoço
+17:00 Evento de Networking
+

@@ -1,0 +1,14 @@
+TRACK A
+09:00 Palestra B 60min
+10:00 Palestra C lightning
+10:05 Palestra E 3min
+10:08 Palestra F 45min
+12:00 Almoço
+13:00 Palestra D 235min
+17:00 Evento de Networking
+
+TRACK B
+12:00 Almoço
+13:00 Palestra A 200min
+17:00 Evento de Networking
+
