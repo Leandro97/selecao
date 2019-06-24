@@ -1,0 +1,6 @@
+Palestra A 200min
+Palestra B 60min
+Palestra C lightning
+Palestra D 235min
+Palestra E 3min
+Palestra F 45min

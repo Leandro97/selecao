@@ -20,9 +20,9 @@ public class Solver {
 	private double tracks; //Number of tracks
 	private Integer[][] record; //Auxiliary array used in Dynamic Problem
 
-	public Solver() throws IOException {
+	public Solver(String fileName) throws IOException {
 		double total = 0;
-		URL url = Main.class.getClassLoader().getResource("files/proposals.txt");
+		URL url = Main.class.getClassLoader().getResource("files/" + fileName + ".txt");
 		
 		File file = new File(url.getPath());
 		BufferedReader reader = new BufferedReader(new FileReader(file)); 

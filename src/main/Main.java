@@ -3,7 +3,8 @@ import java.io.*;
 
 public class Main {	
 	public static void main(String[] args) throws IOException {
-		Solver solver = new Solver();
+		String fileName = "proposals3";
+		Solver solver = new Solver(fileName);
 
 		for(int i = 0; i < solver.getTracks(); i++) {
 			String track = i >= 0 && i <= 27 ? String.valueOf((char)(i + 65)) : null;
@@ -22,9 +23,12 @@ public class Main {
 			solver.setTask("", 0);
 		}
 		
+		PrintWriter writer = new PrintWriter("src/files/" + fileName + "-output.txt", "UTF-8");
 		for (String task : solver.getAnswer()) {
 			System.out.println(task);
+			writer.println(task);
 		}
+		writer.close();
 	}
 
 }
